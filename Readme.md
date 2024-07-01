@@ -22,7 +22,8 @@
 
   - For add tool into quick access bar section **[right-click on the tool -> add to quick access toolbar]**
 
-    _Example_
+    **Example**
+
     ![quick-access-bar picture](document/Capture5.PNG "Excel quick-access-bar")
 
 - Excel Worksheet
