@@ -61,3 +61,5 @@
 - move up cell to down cell click (Enter) button
 
 - For delete specific row, ( **select any cell of the row -> Home Tab -> delete** )
+
+  ![delete  picture](document/Capture11.PNG "delete tool")
