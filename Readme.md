@@ -54,3 +54,10 @@
   ctrl + (Home / ?) key
 
   ```
+
+## Data entry and editing
+
+- move left cell to right cell click (TAB) button
+- move up cell to down cell click (Enter) button
+
+- For delete specific row, ( **select any cell of the row -> Home Tab -> delete** )
